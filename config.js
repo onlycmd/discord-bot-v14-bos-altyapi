@@ -1,5 +1,5 @@
 module.exports = {
-  "prefix": "/",
-  "owner": "712328850331140176",
+  "prefix": "",
+  "owner": "KULLANICI ID",
   "token": "TOKEN GİR"
 }
